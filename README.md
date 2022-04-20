@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nick Millhouse
+- 👀 I’m interested in learning new coding techniques and systems.
+- 🌱 I’m currently learning SQL, Tableau, and Python, among others. 
